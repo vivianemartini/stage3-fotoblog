@@ -3,6 +3,7 @@
 # Topics covered
 
 - CSS Animations
+    - [Animista](https://animista.net/)
 - Avatar api = `https://randomuser.me/api/portraits/women/5.jpg`
 - Image api = ` https://source.unsplash.com/random?d=1`
 - Aspect-ratio
